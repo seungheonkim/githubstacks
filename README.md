@@ -67,7 +67,7 @@
 ### 🏡 아키텍처
 
 ---
-![new_year_1.png](./img/new_year_1.png)
+<img src="https://cdn.discordapp.com/attachments/1059688528109383690/1069857230213632080/new_year_2.png">
 
 
 ### 📄 프로젝트 문서
