@@ -1,7 +1,5 @@
 # 뉴이어팀 
 
-## Conventions
-
 ### 🚆 프로젝트 소개
 
 ---
@@ -35,7 +33,7 @@
 |:-----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
 | <img src="https://avatars.githubusercontent.com/u/95217370?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/110877564?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/111267716?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/51967731?v=4" width="120" height="120"> | 
 |               김승헌<br>[<u>seungheonkim</u>](https://github.com/seungheonkim)               |                    김현정<br>[<u>sena-22</u>](https://github.com/sena-22)                     |                       이창욱<br>[<u>uk11</u>](https://github.com/uk11)                        |                허서영<br>[<u>ashleysyheo</u>](https://github.com/ashleysyheo)                |
-|- 여행일정 CRUD 페이지 </br> - 회원가입 인증번호 </br> - 무한스크롤 </br> - 세부 게시글 조회 </br> - 댓글 CRUD </br>                          |                          - </br> - </br> - </br> - </br> - </br>                           |                          - </br> - </br> - </br> - </br> - </br>                           |                          - </br> - </br> - </br> - </br> - </br>                          |
+|- 여행일정 CRUD 페이지 </br> - 회원가입 인증번호</br> - 세부 게시글 조회 </br> - 댓글 CRUD </br>|- 메인페이지 </br> - 게시판 추가, 수정 </br> - 유저 프로필 페이지 |- 회원가입 </br> - 로그인 </br> - 게시판 </br> - JWT</br>|- CSS 와이어프레임 </br> - CSS High-fidelity </br> - 전체 페이지 CSS 적용|
 
 
 
@@ -43,7 +41,7 @@
 |:-----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
 | <img src="https://avatars.githubusercontent.com/u/97475429?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/111178684?v=4" width="120" height="120"> | <img src="https://avatars.githubusercontent.com/u/110887976?v=4" width="120" height="120"> |
 |                   김혜진<br>[<u>hyejinme</u>](https://github.com/hyejinme)                   |                    유제웅<br>[<u>Yujeu07</u>](https://github.com/Yujeu07)                     |                    김민정<br>[<u>kimmj13</u>](https://github.com/kimmj13)                     |
-|- 일정 CRUD </br> - 장소 CRUD </br> - 도시조회 </br> - 배포 자동화 & SSL 적용</br>|                          - </br> - </br> - </br> - </br> - </br>                           |  - 게시판/댓글 기능 </br> - 예산 기능 </br> - 페이스북/카카오 로그인 </br> - 회원 프로필 이미지(S3) </br> - 회원가입 인증번호   |
+|- 일정 CRUD </br> - 장소 CRUD </br> - 도시조회 </br> - 배포 자동화 & SSL 적용</br>|- 회원 CRUD </br> - 로그아웃 </br> - Spring Security </br> - JWT </br> - OAuth2.0</br>|  - 게시판/댓글 기능 </br> - 예산 기능 </br> - 페이스북/카카오 로그인 </br> - 회원 프로필 이미지(S3) </br> - 회원가입 인증번호   |
 
 
 
@@ -76,6 +74,7 @@
 
 ---
 * [__사용자 요구사항 정의서__](https://docs.google.com/spreadsheets/d/16QocjOKYgHj-fQKsFi6cyHji0kKjKmaRSMqyj9xEx_M/edit#gid=0)
+* [__화면 정의서__](https://docs.google.com/presentation/d/1oialSaJ0ajnUiWWxaJwvFpKREnZ5M3JUYY0OPxjnO64/edit#slide=id.g1c6957d7d82_1_3)
 * [__유저 플로우__](https://www.figma.com/file/2HRLBEF4cacSrnLzyB7KVF/23%EC%A1%B0?node-id=0%3A1&t=7xxZoZBPouaZ5gRL-1)
 * [__화면 FIGMA__](https://www.figma.com/file/P122sBzZUklWBj8X0Rjivq/prototype)
 * [__테이블 ERD__](https://www.erdcloud.com/d/QQwkB7RnqsnKo2gF2)
@@ -95,6 +94,7 @@
 
 </details>
 
+## Conventions
 
 ### 📌 Commit/Branch 분류 규칙
 
