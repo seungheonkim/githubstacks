@@ -3,14 +3,17 @@
 ### 🚆 프로젝트 소개
 
 ---
-여행 일정 및 공유를 위한 웹사이트입니다.
+<img src="https://cdn.discordapp.com/attachments/1059688528109383690/1069856576111915058/9D684A6C-8B11-44D3-9F6F-6AF0F8102066.jpeg">
 
-
-### 핵심 기능
-
----
-1.
-
+나만의 여행을 기록하고 싶으신가요? 
+<br>
+두근두근 설레는 나만의 여행 기록! 🗒️
+<br>
+나의 즐거운 여행 기록 공유까지! 
+<img src="https://cdn.discordapp.com/attachments/1059688528109383690/1069853776346873886/cute_bird.png" height="25px" width="25px">
+<span style ="color:#3A4CA8"><b> Tridom </b> </span>
+<img src="https://cdn.discordapp.com/attachments/1059688528109383690/1069853776346873886/cute_bird.png" height="25px" width="25px">
+에서 여행을 떠나보세요! ✈️
 
 
 ### 🔗 배포 링크
